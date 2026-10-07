@@ -1,0 +1,23 @@
+**/bin/
+**/obj/
+dist/
+design/reference-codexbar/
+design/reference-fluentwpf/
+design/reference-liquidglasswinui/
+design/reference-winui-ex/
+design/reference-winui/
+design/reference-windowsappsdk/
+*.user
+*.log
+.vs/
+.env
+.env.*
+!.env.example
+settings.json
+settings.json.*
+auth.json
+*.pfx
+*.p12
+*.key
+# Unrelated local illustration.
+/pelican-bicycle.html

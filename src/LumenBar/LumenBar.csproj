@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net10.0-windows</TargetFramework>
+    <UseWPF>true</UseWPF>
+    <UseWindowsForms>true</UseWindowsForms>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>disable</ImplicitUsings>
+    <ApplicationManifest>app.manifest</ApplicationManifest>
+    <Version>0.3.0</Version>
+  </PropertyGroup>
+  <ItemGroup><EmbeddedResource Include="LiquidGlass.hlsl" /></ItemGroup>
+  <ItemGroup><ProjectReference Include="../LumenBar.Core/LumenBar.Core.csproj" /></ItemGroup>
+</Project>

@@ -1,0 +1,7 @@
+Generated with the built-in image_gen tool, transparent_background=true.
+Source: src/LumenBar.WinUI/Assets/LumenBar.png
+Windows ICO: src/LumenBar.WinUI/Assets/LumenBar.ico
+ICO conversion: design/build-icon.ps1 (16,20,24,32,40,48,64,128,256 px, alpha preserved).
+
+Prompt:
+Use case: logo-brand. Create one production Windows 11 application icon for LumenBar, a compact desktop LLM quota and balance monitor represented by stacked rounded progress capsules. A single centered polished Fluent-style app icon, front view, square composition. Three bold horizontal rounded capsules of decreasing filled length arranged as a simple cohesive luminous mark, clear at small sizes, cool blue and turquoise tones with restrained translucent acrylic depth, smooth precise edges and subtle highlights. The mark occupies most of the canvas with modest even padding. Transparent background outside the icon. No letters, no words, no numbers, no small decorations, no mockup, no surrounding interface, no cast shadow beyond the icon. It should feel elegant and immediately readable in the Windows system tray, not a complex illustration.
